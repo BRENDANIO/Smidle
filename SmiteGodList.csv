@@ -1,0 +1,127 @@
+126
+1,Agni,God of Fire,Mage,Hindu,Magical,Ranged,5/31/2012
+1,Anubis,God of the Dead,Mage,Egyptian,Magical,Ranged,5/31/2012
+1,Arachne,The Weaver,Assassin,Greek,Physical,Melee,5/31/2012
+1,Artemis,Goddess of the Hunt,Hunter,Greek,Physical,Ranged,5/31/2012
+1,Bastet,Goddess of Cats,Assassin,Egyptian,Physical,Melee,5/31/2012
+1,Hades,King of the Underworld,Mage,Greek,Magical,Ranged,5/31/2012
+1,He Bo,God of the Yellow River,Mage,Chinese,Magical,Ranged,5/31/2012
+1,Hel,Goddess of the Underworld,Mage,Norse,Magical,Ranged,5/31/2012
+1,Hun Batz,The Howler Monkey God,Assassin,Maya,Physical,Melee,5/31/2012
+1,Kali,Goddess of Destruction,Assassin,Hindu,Physical,Melee,5/31/2012
+1,Kukulkan,Serpent of the Nine Winds,Mage,Maya,Magical,Ranged,5/31/2012
+1,Odin,The Allfather,Warrior,Norse,Physical,Melee,5/31/2012
+1,Ra,Sun God,Mage,Egyptian,Magical,Ranged,5/31/2012
+1,Sobek,God of the Nile,Guardian,Egyptian,Magical,Melee,5/31/2012
+1,Vamana,Fifth Avatar of Vishnu,Warrior,Hindu,Physical,Melee,5/31/2012
+1,Ymir,Father of the Frost Giants,Guardian,Norse,Magical,Melee,5/31/2012
+1,Zeus,God of the Sky,Mage,Greek,Magical,Ranged,5/31/2012
+2,Guan Yu,Saint of War,Warrior,Chinese,Physical,Melee,6/29/2012
+3,Bakasura,The Great Devourer,Assassin,Hindu,Physical,Melee,7/20/2012
+4,Anhur,Slayer of Enemies,Hunter,Egyptian,Physical,Ranged,8/3/2012
+5,Cupid,God of Love,Hunter,Roman,Physical,Ranged,8/17/2012
+6,Thor,God of Thunder,Assassin,Norse,Physical,Melee,9/6/2012
+7,Ares,God of War,Guardian,Greek,Magical,Melee,10/4/2012
+8,Freya,Queen of the Valkyries,Mage,Norse,Magical,Melee,10/18/2012
+9,Loki,The Trickster God,Assassin,Norse,Physical,Melee,11/2/2012
+10,Bacchus,God of Wine,Guardian,Roman,Magical,Melee,11/19/2012
+11,Xbalanque,Hidden Jaguar Sun,Hunter,Maya,Physical,Ranged,12/21/2012
+12,Hercules,Champion of Rome,Warrior,Roman,Physical,Melee,1/9/2013
+13,Vulcan,Smith of the Gods,Mage,Roman,Magical,Ranged,1/30/2013
+14,Neith,Weaver of Fate,Hunter,Egyptian,Physical,Ranged,2/13/2013
+15,Poseidon,God of the Oceans,Mage,Greek,Magical,Ranged,2/28/2013
+16,Aphrodite,Goddess of Beauty,Mage,Greek,Magical,Ranged,3/13/2013
+17,Apollo,God of Music,Hunter,Greek,Physical,Ranged,3/28/2013
+18,Ne Zha,The Third Lotus Prince,Assassin,Chinese,Physical,Melee,4/17/2013
+19,Fenrir,The Unbound,Assassin,Norse,Physical,Melee,5/1/2013
+20,Eset,Goddess of Magic,Mage,Egyptian,Magical,Ranged,5/15/2013
+21,Athena,Goddess of Wisdom,Guardian,Greek,Magical,Melee,6/5/2013
+22,Chronos,Keeper of Time,Mage,Greek,Magical,Ranged,7/10/2013
+23,Chang'e,Faerie of the Moon,Mage,Chinese,Magical,Ranged,7/24/2013
+24,Tyr,The Lawgiver,Warrior,Norse,Physical,Melee,8/7/2013
+25,Zhong Kui,The Demon Queller,Mage,Chinese,Magical,Ranged,8/28/2013
+26,Thanatos,Hand of Death,Assassin,Greek,Physical,Melee,9/18/2013
+27,Mercury,Messenger of the Gods,Assassin,Roman,Physical,Melee,10/2/2013
+28,Sun Wukong,The Monkey King,Warrior,Chinese,Physical,Melee,10/23/2013
+29,Ah Muzen Cab,God of Bees,Hunter,Maya,Physical,Ranged,11/7/2013
+30,Nu Wa,Guardian of Heaven,Mage,Chinese,Magical,Ranged,12/5/2013
+31,Chaac,God of Rain,Warrior,Maya,Physical,Melee,12/18/2013
+32,Geb,God of Earth,Guardian,Egyptian,Magical,Melee,1/16/2014
+33,Nemesis,Goddess of Vengeance,Assassin,Greek,Physical,Melee,2/6/2014
+34,Scylla,Horror of the Sea,Mage,Greek,Magical,Ranged,3/5/2014
+35,Ullr,The Glorious One,Hunter,Norse,Physical,Ranged,3/19/2014
+36,Kumbhakarna,The Sleeping Giant,Guardian,Hindu,Magical,Melee,4/16/2014
+37,Osiris,Broken God of the Afterlife,Warrior,Egyptian,Physical,Melee,5/6/2014
+38,Janus,God of Portals and Transitions,Mage,Roman,Magical,Ranged,5/28/2014
+39,Rama,Seventh Avatar of Vishnu,Hunter,Hindu,Physical,Ranged,6/24/2014
+40,Serqet,Goddess of Venom,Assassin,Egyptian,Physical,Melee,7/15/2014
+41,Cabrakan,Destroyer of Mountains,Guardian,Maya,Magical,Melee,8/19/2014
+42,Sylvanus,Keeper of the Wild,Guardian,Roman,Magical,Ranged,10/1/2014
+43,Nox,Goddess of Night,Mage,Roman,Magical,Ranged,10/29/2014
+44,Ao Kuang,Dragon King of the Eastern Seas,Mage,Chinese,Magical,Melee,11/19/2014
+45,Awilix,Goddess of the Moon,Assassin,Maya,Physical,Melee,12/17/2014
+46,Hou Yi,Defender of the Earth,Hunter,Chinese,Physical,Ranged,1/14/2015
+47,Bellona,Goddess of War,Warrior,Roman,Physical,Melee,2/25/2015
+48,Medusa,The Gorgon,Hunter,Greek,Physical,Ranged,4/1/2015
+49,Ah Puch,Horrific God of Decay,Mage,Maya,Magical,Ranged,4/28/2015
+50,Ratatoskr,The Sly Messenger,Assassin,Norse,Physical,Melee,6/2/2015
+51,Ravana,Demon King of Lanka,Assassin,Hindu,Physical,Melee,6/30/2015
+52,Khepri,The Dawn Bringer,Guardian,Egyptian,Magical,Melee,8/4/2015
+53,Xing Tian,The Relentless,Guardian,Chinese,Magical,Melee,9/1/2015
+54,Sol,Goddess of the Sun,Mage,Norse,Magical,Ranged,10/6/2015
+55,Chiron,The Great Teacher,Hunter,Greek,Physical,Ranged,11/17/2015
+56,Amaterasu,The Shining Light,Warrior,Japanese,Physical,Melee,1/12/2016
+57,Raijin,Master of Thunder,Mage,Japanese,Magical,Ranged,2/16/2016
+58,Skadi,Goddess of Winter,Hunter,Norse,Physical,Ranged,3/15/2016
+59,Jing Wei,The Oathkeeper,Hunter,Chinese,Physical,Ranged,4/12/2016
+60,Susano,God of the Summer Storm,Assassin,Japanese,Physical,Melee,5/10/2016
+61,Fafnir,The Lord of Glittering Gold,Guardian,Norse,Magical,Melee,6/7/2016
+62,Erlang Shen,The Illustrious Sage,Warrior,Chinese,Physical,Melee,7/6/2016
+63,Terra,The Earth Mother,Guardian,Roman,Magical,Melee,8/2/2016
+64,Izanami,Matron of the Dead,Hunter,Japanese,Physical,Ranged,8/30/2016
+65,Camazotz,Deadly God of Bats,Assassin,Maya,Physical,Melee,10/11/2016
+66,Thoth,Arbiter of the Damned,Mage,Egyptian,Magical,Ranged,11/8/2016
+67,Nike,Godess of Victory,Warrior,Greek,Physical,Melee,12/6/2016
+68,The Morrigan,Phantom Queen,Mage,Celtic,Magical,Ranged,1/10/2017
+69,Kuzenbo,King Kappa,Guardian,Japanese,Magical,Melee,2/14/2017
+70,Cernunnos,The Horned God,Hunter,Celtic,Physical,Ranged,3/14/2017
+71,Ganesha,God of Success,Guardian,Hindu,Magical,Melee,4/25/2017
+72,Da Ji,The Nine-Tailed Fox,Assassin,Chinese,Physical,Melee,5/24/2017
+73,Cu Chulainn,Hound of Ulster,Warrior,Celtic,Physical,Melee,6/20/2017
+74,Artio,The Bear Goddess,Guardian,Celtic,Magical,Melee,8/1/2017
+75,Hachiman,Lord of the Eight Banners,Hunter,Japanese,Physical,Ranged,9/13/2017
+76,Discordia,Goddess of Strife,Mage,Roman,Magical,Ranged,11/6/2017
+77,Cerberus,Warden of the Underworld,Guardian,Greek,Magical,Melee,1/9/2018
+78,Achilles,Hero of the Trojan War,Warrior,Greek,Physical,Melee,2/27/2018
+79,Chernobog,Lord of Darkness,Hunter,Slavic,Physical,Ranged,5/15/2018
+80,Baron Samedi,God of Life and Death,Mage,Voodoo,Magical,Ranged,6/26/2018
+81,Pele,Goddess of Volcanoes,Assassin,Polynesian,Physical,Melee,8/6/2018
+82,Hera,Queen of the Gods,Mage,Greek,Magical,Ranged,10/15/2018
+83,King Arthur,Wielder of Excalibur,Warrior,Arthurian,Physical,Melee,1/7/2019
+84,Merlin,The Master Wizard,Mage,Arthurian,Magical,Ranged,2/11/2019
+85,Jormungandr,The World Serpent,Guardian,Norse,Magical,Ranged,3/5/2019
+86,Horus,The Rightful Heir,Warrior,Egyptian,Physical,Melee,4/30/2019
+87,Set,The Usurper,Assassin,Egyptian,Physical,Melee,4/30/2019
+88,Olorun,Ruler of the Heavens,Mage,Yoruba,Magical,Ranged,6/25/2019
+89,Persephone,Queen of the Underworld,Mage,Greek,Magical,Ranged,8/20/2019
+90,Yemoja,Goddess of Rivers,Guardian,Yoruba,Magical,Ranged,10/15/2019
+91,Heimdallr,The Vigilant,Hunter,Norse,Physical,Ranged,12/11/2019
+92,Mulan,The Ascendant Warrior,Warrior,Chinese,Physical,Melee,2/25/2020
+93,Baba Yaga,Witch of the Woods,Mage,Slavic,Magical,Ranged,4/21/2020
+94,Cthulhu,The Great Dreamer,Guardian,GreatOldOnes,Magical,Melee,6/16/2020
+95,Tsukuyomi,God of the Moon,Assassin,Japanese,Physical,Melee,8/11/2020
+96,Danzaburou,The Legendary Tanuki,Hunter,Japanese,Physical,Ranged,12/15/2020
+97,Tiamat,Goddess of the Salt Sea,Mage,Babylonian,Magical,Ranged,2/23/2021
+98,Gilgamesh,King of Uruk,Warrior,Babylonian,Physical,Melee,4/20/2021
+99,Morgan Le Fay,The Dark Enchantress,Mage,Arthurian,Magical,Ranged,6/15/2021
+100,Charybdis,The Ceaseless Whirlpool,Hunter,Greek,Physical,Ranged,8/24/2021
+101,Cliodhna,Queen of the Banshees,Assassin,Celtic,Physical,Melee,10/19/2021
+102,Atlas,Titan of the Cosmos,Guardian,Greek,Magical,Melee,12/14/2021
+103,Shiva,The Destroyer,Warrior,Hindu,Physical,Melee,2/22/2022
+104,Yu Huang,The Jade Emperor,Mage,Chinese,Magical,Ranged,4/19/2022
+105,Lancelot,First Knight of the Round Table,Assassin,Arthurian,Physical,Melee,6/14/2022
+106,Ishtar,Goddess of Love and War,Hunter,Babylonian,Physical,Ranged,8/23/2022
+107,Maui,Hero of Hawai'i,Guardian,Polynesian,Magical,Melee,10/18/2022
+108,Surtr,The Fire Giant,Warrior,Norse,Physical,Melee,1/24/2023
+109,Martichoras,The Manticore King,Hunter,Greek,Physical,Ranged,2/21/2023
+110,Ix Chel,The Light Weaver,Mage,Maya,Magical,Ranged,4/18/2023
